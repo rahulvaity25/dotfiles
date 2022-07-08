@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rahul.vaity25@gmail.com
+	name = rv
